@@ -1,6 +1,6 @@
 
 # HOLA MUNDO
-Lo que executa el codigo es directamente un print con la frase Hola Mundo.
+Este programa es de los mas senzillos y basicos de python, trata de imprimir una frase que ponga Hola Mundo
 
 
 ## Authors
