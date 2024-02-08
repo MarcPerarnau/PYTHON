@@ -1,6 +1,6 @@
 
-# HOLA MUNDO
-Este programa es de los mas senzillos y basicos de python, trata de imprimir una frase que ponga Hola Mundo
+# Hello World
+This program is one of the simplest and most basic python programs, try to print a sentence that says Hello World.
 
 
 ## Authors
