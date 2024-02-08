@@ -2,6 +2,10 @@
 # Hello World
 This program is one of the simplest and most basic python programs, try to print a sentence that says Hello World.
 
+## Screenshots
+
+![App Screenshot](https://github.com/MarcPerarnau/PYTHON/assets/151735878/7e42c015-46e8-4cbf-8a14-e91e102b51f7)
+
 
 ## Authors
 
