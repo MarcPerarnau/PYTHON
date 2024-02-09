@@ -1,5 +1,5 @@
 # ARITHMETIC OPERATION
-Write a program that displays on the screen the result of the following arithmetic operation (3 + 5) / (2 x 5)^5
+Write a program that displays on the screen the result of the following arithmetic operation (3 + 5) / (2 x 5)^2
 
 
 ## Screenshots
