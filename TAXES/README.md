@@ -32,9 +32,14 @@ Income Tax rate
 </table>
 
 Write a program that asks the user the annual income and shows the corresponding tax rate on the screen.
+
+>[!IMPORTANT]
+>The operation is income * emblem / 100
+
 ## Screenshots
 
-![App Screenshot]
+![App Screenshot](https://github.com/MarcPerarnau/PYTHON/assets/151735878/0842ae08-8f5e-437e-98ae-c83a31a41485)
+
 
 
 ## Authors
