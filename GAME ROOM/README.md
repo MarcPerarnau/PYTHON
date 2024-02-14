@@ -2,8 +2,6 @@
 # GAME ROOM
 Write a program for a company that has arcades for all ages and wants to automatically calculate the price to charge its customers to enter. The program should ask the user the age of the customer and display the price of admission. If the customer is under 4 years old he can enter for free, if he is between 4 and 18 years old he must pay 5€ and if he is over 18 years old, 10€.
 
->[!IMPORTANT]
->It can be done by nesting if or with switch
 
 ## Screenshots
 
